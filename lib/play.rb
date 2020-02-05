@@ -35,6 +35,8 @@ def turn(board)
   end
 end
 
-
-
 # Define your play method below
+def play(board)
+  turn.each do |board|
+  end
+end
