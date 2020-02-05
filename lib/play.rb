@@ -37,6 +37,7 @@ end
 
 # Define your play method below
 def play(board)
-  turn.each do |board|
+  turn(board)
+  until input_to_index[1,8]
   end
 end
